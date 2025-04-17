@@ -55,7 +55,6 @@
 - [PneuNet](https://github.com/Maithilikarle3/PneuNet) – Pneumonia classification network using deep learning.
 - [MechLens](https://github.com/Maithilikarle3/MechLens) – Mechanical anomaly detection using deep learning.
 - [Buffer_4.0](https://github.com/Maithilikarle3/Buffer_4.0) – An ML project (details in repo).
-- [Alchemists_sy_66](https://github.com/Maithilikarle3/Alchemists_sy_66) – Collaborative deep learning project(group project)
 - [Swamini11/Alchemists_sy_66](https://github.com/Swamini11/Alchemists_sy_66) – Fork or collaboration on Alchemists project(group project)
 - [Swamini11/Legal-document-Assistant](https://github.com/Swamini11/Legal-document-Assistant) – AI assistant for legal document summarization(group project).
 
